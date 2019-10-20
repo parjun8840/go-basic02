@@ -93,6 +93,12 @@ Print the directories under the source path:
 /Users/arjun/go-prac/makefile
 /Users/arjun/go-prac/src
 arjun:go-prac arjun$ 
+
+arjun:go-prac arjun$ go-basic02 
+The time is:  2019-10-20 20:48:39.843258 +0530 IST m=+0.000081840
+false
+5510.01
+100
 ```
 
 
